@@ -5,7 +5,7 @@ I'm William Jones, a Postdoc researcher in the [Climate Processes Group](https:/
 - 🔭 I’m currently working on ...
   - How does the diurnal cycle interact with the CRE of DCCs over Africa? [preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2059/)
   - How do convective invigoration and organisation affect the structure of anvils? [upcoming EGU talk](https://meetingorganizer.copernicus.org/EGU24/EGU24-13548.html)
-  - Tracking DCCs in global km-scale model runs [MCSMIP](https://github.com/w-k-jones/tobac-mcsmip) & [NextGEMS](https://github.com/w-k-jones/tobac-mcsmip)
+  - Tracking DCCs in global km-scale model runs [MCSMIP](https://github.com/w-k-jones/tobac-mcsmip) & [NextGEMS](https://github.com/w-k-jones/tobac_icon_hackathon)
 <!--
 **w-k-jones/w-k-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
