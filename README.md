@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm William Jones, a Postdoc researcher in the [Climate Processes Group](https://www.physics.ox.ac.uk/research/group/climate-processes) at the University of Oxford. I study deep convective storm clouds, with a focus on linking convective processes to anvil properties and their cloud radiative effect. I develop novel cloud-tracking software and apply it to geostationary satellite observations and global km-scale models.
+I'm William Jones, a research fellow in the [ESA Climate Office](https://climate.esa.int/en/about-us-new/esa-climate-office/). I study deep convective storm clouds, with a focus on linking convective processes to anvil properties and their cloud radiative effect. I develop novel cloud-tracking software and apply it to geostationary satellite observations and global km-scale models.
 
 - 🔭 I’m currently working on ...
   - How does the diurnal cycle interact with the CRE of DCCs over Africa? [article](https://doi.org/10.5194/acp-24-5165-2024), [repository](https://github.com/w-k-jones/A-Lagrangian-Perspective-on-the-Lifecycle-and-Cloud-Radiative-Effect-of-Deep-Convective-Clouds...) & [dataset](https://zenodo.org/doi/10.5281/zenodo.8317024)
